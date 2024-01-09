@@ -2,6 +2,14 @@ Certainly! Here's an improved README file for your project:
 
 # Data Literacy Project
 
+- [ ] Run factor analysis with categorical features.
+- [ ] Work on prediction model by using categorical features. learn one-hot encoding.
+- [x] Scrape newest unofficial dataset and compare with our main dataset which is 2023 official data.
+- [ ] Finalize Jupyter Notebook file, merge all into single one
+  - [ ] Create sections
+- [ ] Work on null hypotesis with categorical data.
+  - [ ] First we need to encode categorical variables.
+
 ## Overview
 
 Welcome to the Data Literacy Project! This project focuses on analyzing and exploring a dataset spanning from 2001 to 2023, with the goal of gaining insights into various aspects of the data. We have a diverse team of contributors, each working on different aspects of the project.
