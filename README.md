@@ -2,7 +2,7 @@ Certainly! Here's an improved README file for your project:
 
 # Data Literacy Project
 
-- [ ] Run factor analysis with categorical features.
+- [ ] Run factor analysis with categorical features. (when selfMade and gender are encoded, it doesn't work, and gives 'singular matrix error')
 - [ ] Work on prediction model by using categorical features. learn one-hot encoding.
 - [x] Scrape newest unofficial dataset and compare with our main dataset which is 2023 official data.
 - [ ] Finalize Jupyter Notebook file, merge all into single one
