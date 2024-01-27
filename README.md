@@ -26,7 +26,9 @@ Our analysis employs time series analysis and bootstrap resampling techniques to
 ## Key Findings
 
 **Gender and Inheritance:** Relatively equitable gender distribution among billionaires, with a higher concentration of wealth among self-made billionaires.
+
 **Country Factors:** Significant differences in billionaire concentration between developed and developing countries, with developed countries showing a higher per capita concentration.
+
 **Industry Dynamics:** A notable shift in industries contributing to billionaire wealth, with technology emerging as a dominant sector.
 
 ## Visualizations
@@ -40,5 +42,7 @@ The repository includes several plots and visualizations, such as:
 ## Contribution
 
 Kübra Özdemir: Focused on gender and self-made status analysis.
+
 Hikmet Yılmaz: Conducted time series analysis of industry-related wealth.
+
 Pulkit Thukral: Analyzed the impact of country-specific factors.
