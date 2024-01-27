@@ -10,8 +10,9 @@ Our study delves into the dynamics of billionaire wealth accumulation. Using dat
 
 The primary data source is the Forbes Billionaires list, capturing detailed information on billionaires' net worth, industry, gender, and country of residence. Two key datasets are used:
 
-[Forbes Billionaires Evolution (1997-2023)] - [https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023]
-[Billionaires Statistics Dataset (2023)] - [https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/data]
+- [Forbes Billionaires Evolution (1997-2023)](https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023)
+
+- [Billionaires Statistics Dataset (2023)](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/data)
 
 ## Methodology
 
