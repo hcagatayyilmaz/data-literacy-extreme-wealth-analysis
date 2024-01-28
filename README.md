@@ -6,13 +6,15 @@ This repository contains the LaTeX source code and data analysis for the researc
 
 Our study delves into the dynamics of billionaire wealth accumulation. Using data from 2000 to 2023, we explore various dimensions such as industry affiliation, gender, inheritance, and the influence of country-specific factors on the distribution of billionaire wealth. The research is pivotal in understanding economic disparities and informing policy decisions.
 
-## Data Sources
+## Data Sources & Technology
 
 The primary data source is the Forbes Billionaires list, capturing detailed information on billionaires' net worth, industry, gender, and country of residence. Two key datasets are used:
 
 - [Forbes Billionaires Evolution (1997-2023)](https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023)
 
 - [Billionaires Statistics Dataset (2023)](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/data)
+
+Analysis is made by using Python and Jupyter Noteboo. Python above version 3 and Jupyter Notebook installion is required. Also following packages has been utilized in the analysis pandas, matplotlib.pyplot, seaborn, mplcyberpunk, geopandas, numpy, mpl_toolkits.axes_grid1, matplotlib.ticker, squarify, datetime, ast, Tueplots.
 
 ## Methodology
 
