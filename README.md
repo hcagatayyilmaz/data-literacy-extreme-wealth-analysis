@@ -61,10 +61,8 @@ The repository includes several plots and visualizations, such as:
 - Industry-specific wealth trends.
 - Gender and wealth origin comparisons.
 
-## Contribution
+## Team Members
 
-Kübra Özdemir: Focused on gender and self-made status analysis.
-
-Hikmet Yılmaz: Conducted time series analysis of industry-related wealth.
-
-Pulkit Thukral: Analyzed the impact of country-specific factors.
+Kübra Özdemir([kuebra.oezdemir@student.uni-tuebingen.de](mailto:kuebra.oezdemir@student.uni-tuebingen.de))
+Hikmet Yılmaz([hikmet.yilmaz@student.uni-tuebingen.de](mailto:hikmet.yilmaz@student.uni-tuebingen.de))
+Pulkit Thukral([pulkit.thukral@student.uni-tuebingen.de](mailto:pulkit.thukral@student.uni-tuebingen.de))
