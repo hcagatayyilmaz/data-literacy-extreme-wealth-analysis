@@ -18,7 +18,7 @@ The primary data source is the Forbes Billionaires list, capturing detailed info
 
 Python version: 3.9 and above
 
-## Required Libraries:
+Required Libraries:
 
 ````
 - Pandas
