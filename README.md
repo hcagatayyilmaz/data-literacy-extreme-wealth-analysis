@@ -64,5 +64,7 @@ The repository includes several plots and visualizations, such as:
 ## Team Members
 
 Kübra Özdemir([kuebra.oezdemir@student.uni-tuebingen.de](mailto:kuebra.oezdemir@student.uni-tuebingen.de))
+
 Hikmet Yılmaz([hikmet.yilmaz@student.uni-tuebingen.de](mailto:hikmet.yilmaz@student.uni-tuebingen.de))
+
 Pulkit Thukral([pulkit.thukral@student.uni-tuebingen.de](mailto:pulkit.thukral@student.uni-tuebingen.de))
