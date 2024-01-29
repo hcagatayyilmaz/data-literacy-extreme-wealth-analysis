@@ -1,6 +1,6 @@
 # Project Title: Billionaire Wealth Dynamics - A Comparative Analysis
 
-This repository contains the LaTeX source code and data analysis for the research project titled "Billionaire Wealth Dynamics: A Comparative Analysis of Industry, Gender, Inheritance, and Country Factors." The project was submitted for Data Literacy project..
+This repository contains the LaTeX source code and data analysis for the research project titled "Billionaire Wealth Dynamics: A Comparative Analysis of Industry, Gender, Inheritance, and Country Factors." The project was submitted as the Data Literacy project.
 
 ## Overview
 
