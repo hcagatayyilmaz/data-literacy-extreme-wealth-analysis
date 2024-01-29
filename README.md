@@ -14,11 +14,26 @@ The primary data source is the Forbes Billionaires list, capturing detailed info
 
 - [Billionaires Statistics Dataset (2023)](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/data)
 
-Analysis is made by using Python and Jupyter Noteboo. Python above version 3 and Jupyter Notebook installion is required. Also following packages has been utilized in the analysis pandas, matplotlib.pyplot, seaborn, mplcyberpunk, geopandas, numpy, mpl_toolkits.axes_grid1, matplotlib.ticker, squarify, datetime, ast, Tueplots.
-
 ## Requirements
 
 Python version: 3.9 and above
+
+## Required Libraries:
+
+````
+- Pandas
+- Matplotlib
+- Seaborn
+- MPLCyberpunk
+- GeoPandas
+- NumPy
+- MPL_Toolkits.axes_grid1
+- Matplotlib.ticker
+- Squarify
+- Datetime
+- Ast
+- Tueplots
+````
 
 ## Methodology
 
